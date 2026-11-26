@@ -1,11 +1,21 @@
 # Hi, I'm Amol Shingote 👋
 
-**Building QualityAI: AI-assisted complaint analysis for manufacturing quality teams.**
+**Mechanical engineer with 11 years of experience in manufacturing quality, now building AI tools for quality teams.**
+📍 Pune / Pimpri-Chinchwad, India
 
+---
+
+## 🧑‍🏭 About me
+
+- **TUV SÜD certified IATF 16949 Internal Auditor**
+- **Certified EMS-OHSAS Internal Auditor**
+- **Six Sigma Green Belt**
+- Hands-on with **8D, PFMEA, PPAP, 7QC, 5S, TQM, TPM, OEE and COQ**
+- Background in **sheet metal stamping**
 
 ## 🔧 What I'm working on
 
-**QualityAI** turns a customer complaint (PDF, Excel or pasted text) into a structured draft investigation that people review, assign and close.
+**QualityAI** turns a customer complaint (PDF, Excel or pasted text) into a structured draft investigation that people review, assign and close. It comes from real quality-engineering practice: the 8D, 5 Why, Fishbone and CAPA routines that quality teams run every day.
 
 - 📄 **Drafts:** summary, root-cause hypotheses, 5 Why, Fishbone and 8D (D1 to D8)
 - ✅ **CAPA tracking:** owners, evidence, effectiveness checks and admin-approved closure
@@ -32,6 +42,4 @@
 
 ## 📫 Get in touch
 
-
 - LinkedIn: www.linkedin.com/in/amol-shingote-263404ba
-
