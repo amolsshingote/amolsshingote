@@ -32,6 +32,6 @@
 
 ## 📫 Get in touch
 
-- Email: amolshingote5@gmail.com
+
 - LinkedIn: www.linkedin.com/in/amol-shingote-263404ba
 
